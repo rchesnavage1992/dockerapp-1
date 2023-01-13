@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "afterDelay",
+  "circleci.API-token": "d54f889daf905f09c7cfd97e5a380c39746e9722",
+  "circleci.host-url": "",
+  "circleci.ssh.privateKey.github": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINsjXqtt/32oG4UoHr4UBrfv1mLyezStsRO0Tw60AJJD secretlynx333@aol.com",
+  "circleci.ssh.terminalOrRemoteWindow": "In a terminal",
+  "github.gitProtocol": "ssh"
+}
